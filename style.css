@@ -7,10 +7,10 @@
 body {
   background-image: url('/image/Rahul.png');
   background-repeat: no-repeat;
-  background-position: right top;        /* Keep face visible */
+  background-position: right top;
   background-attachment: fixed;
-  background-size: auto 140vh;           /* Bigger image scale */
-  background-color: #000;                /* Background fallback */
+  background-size: auto 140vh;
+  background-color: #000;
   color: white;
 }
 
